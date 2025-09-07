@@ -3,6 +3,10 @@
 Project Overview:
 This project is an interactive Power BI dashboard built using SuperStore Sales data to analyze sales performance, profitability trends, and customer insights. The dashboard provides a comprehensive view of business performance by segmenting data across multiple dimensions, enabling data-driven decision-making.
 
+## 📷 Dashboard
+![Architecture Diagram](https://github.com/Niladri005/BI_Dashbord_Projects/blob/main/Bi%20Dashboard.jpg)
+
+
 🔹 Key Features:
 ✅ Yearly Profit Analysis – Tracks total profit trends over multiple years.
 ✅ Regional Segmentation – Visualizes sales and profit across different regions.
